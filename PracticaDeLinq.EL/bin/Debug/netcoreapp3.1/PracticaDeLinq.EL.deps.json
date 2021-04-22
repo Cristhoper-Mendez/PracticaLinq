@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PracticaDeLinq.EL/1.0.0": {
+        "runtime": {
+          "PracticaDeLinq.EL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaDeLinq.EL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

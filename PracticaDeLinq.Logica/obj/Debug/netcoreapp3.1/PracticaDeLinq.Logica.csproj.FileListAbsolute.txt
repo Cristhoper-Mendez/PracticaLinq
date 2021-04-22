@@ -1,0 +1,14 @@
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\bin\Debug\netcoreapp3.1\PracticaDeLinq.Logica.deps.json
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\bin\Debug\netcoreapp3.1\PracticaDeLinq.Logica.dll
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\bin\Debug\netcoreapp3.1\PracticaDeLinq.Logica.pdb
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\bin\Debug\netcoreapp3.1\PracticaDeLinq.DAL.dll
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\bin\Debug\netcoreapp3.1\PracticaDeLinq.EL.dll
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\bin\Debug\netcoreapp3.1\PracticaDeLinq.DAL.pdb
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\bin\Debug\netcoreapp3.1\PracticaDeLinq.EL.pdb
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\obj\Debug\netcoreapp3.1\PracticaDeLinq.Logica.csprojAssemblyReference.cache
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\obj\Debug\netcoreapp3.1\PracticaDeLinq.Logica.AssemblyInfoInputs.cache
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\obj\Debug\netcoreapp3.1\PracticaDeLinq.Logica.AssemblyInfo.cs
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\obj\Debug\netcoreapp3.1\PracticaDeLinq.Logica.csproj.CoreCompileInputs.cache
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\obj\Debug\netcoreapp3.1\PracticaDeLinq.Logica.csproj.CopyComplete
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\obj\Debug\netcoreapp3.1\PracticaDeLinq.Logica.dll
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.Logica\obj\Debug\netcoreapp3.1\PracticaDeLinq.Logica.pdb

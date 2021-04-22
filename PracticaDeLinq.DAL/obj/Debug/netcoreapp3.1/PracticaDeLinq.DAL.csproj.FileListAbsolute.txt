@@ -1,0 +1,12 @@
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\bin\Debug\netcoreapp3.1\PracticaDeLinq.DAL.deps.json
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\bin\Debug\netcoreapp3.1\PracticaDeLinq.DAL.dll
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\bin\Debug\netcoreapp3.1\PracticaDeLinq.DAL.pdb
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\bin\Debug\netcoreapp3.1\PracticaDeLinq.EL.dll
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\bin\Debug\netcoreapp3.1\PracticaDeLinq.EL.pdb
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\obj\Debug\netcoreapp3.1\PracticaDeLinq.DAL.csprojAssemblyReference.cache
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\obj\Debug\netcoreapp3.1\PracticaDeLinq.DAL.AssemblyInfoInputs.cache
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\obj\Debug\netcoreapp3.1\PracticaDeLinq.DAL.AssemblyInfo.cs
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\obj\Debug\netcoreapp3.1\PracticaDeLinq.DAL.csproj.CoreCompileInputs.cache
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\obj\Debug\netcoreapp3.1\PracticaDeLinq.DAL.csproj.CopyComplete
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\obj\Debug\netcoreapp3.1\PracticaDeLinq.DAL.dll
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.DAL\obj\Debug\netcoreapp3.1\PracticaDeLinq.DAL.pdb

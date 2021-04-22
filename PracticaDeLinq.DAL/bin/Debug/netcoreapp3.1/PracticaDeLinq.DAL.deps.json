@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PracticaDeLinq.DAL/1.0.0": {
+        "dependencies": {
+          "PracticaDeLinq.EL": "1.0.0"
+        },
+        "runtime": {
+          "PracticaDeLinq.DAL.dll": {}
+        }
+      },
+      "PracticaDeLinq.EL/1.0.0": {
+        "runtime": {
+          "PracticaDeLinq.EL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaDeLinq.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PracticaDeLinq.EL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

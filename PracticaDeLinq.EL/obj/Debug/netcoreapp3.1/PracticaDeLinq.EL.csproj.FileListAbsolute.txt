@@ -1,0 +1,9 @@
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.EL\bin\Debug\netcoreapp3.1\PracticaDeLinq.EL.deps.json
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.EL\bin\Debug\netcoreapp3.1\PracticaDeLinq.EL.dll
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.EL\bin\Debug\netcoreapp3.1\PracticaDeLinq.EL.pdb
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.EL\obj\Debug\netcoreapp3.1\PracticaDeLinq.EL.csprojAssemblyReference.cache
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.EL\obj\Debug\netcoreapp3.1\PracticaDeLinq.EL.AssemblyInfoInputs.cache
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.EL\obj\Debug\netcoreapp3.1\PracticaDeLinq.EL.AssemblyInfo.cs
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.EL\obj\Debug\netcoreapp3.1\PracticaDeLinq.EL.csproj.CoreCompileInputs.cache
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.EL\obj\Debug\netcoreapp3.1\PracticaDeLinq.EL.dll
+D:\Tareas\Projects\Visual Studio 2019\PracticaDeLinq\PracticaDeLinq.EL\obj\Debug\netcoreapp3.1\PracticaDeLinq.EL.pdb
