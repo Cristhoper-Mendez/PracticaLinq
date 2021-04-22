@@ -30,5 +30,12 @@ namespace PracticaDeLinq.Logica
             return usuariosMayores;
 
         }
+
+        public IEnumerable<Usuario> ObtenerPorId(int id)
+        {
+            var usuario = usuarioDAL.ObtenerUsuarioPorId(id);
+
+            return usuario;
+        }
     }
 }

@@ -4,6 +4,7 @@ using System.Text;
 
 //
 using PracticaDeLinq.EL;
+using System.Linq;
 
 
 namespace PracticaDeLinq.DAL
@@ -25,6 +26,18 @@ namespace PracticaDeLinq.DAL
             List<Usuario> usuarios = Usuarios;
 
             return usuarios;
+        }
+
+        public IEnumerable<Usuario> ObtenerUsuarioPorId(int id)
+        {
+            List<Usuario> usuarios = Usuarios;
+
+            var usuarioId =
+                from usuario in usuarios
+                where usuario.Id == id
+                select usuario;
+
+            return usuarioId;
         }
     }
 }

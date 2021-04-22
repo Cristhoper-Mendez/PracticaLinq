@@ -29,11 +29,19 @@ namespace PracticaDeLinq.AppConsola
             // Prueba con usuarios
             UsuarioBL usuarioBL = new UsuarioBL();
 
-            var usuariosMayores = usuarioBL.ObtenerMayores18();
+            // Filtrar mayores de 18
+            //var usuariosMayores = usuarioBL.ObtenerMayores18();
 
-            foreach (var usuario in usuariosMayores)
+            //foreach (var usuario in usuariosMayores)
+            //{
+            //    Console.WriteLine(usuario.Nombre);
+            //}
+
+            var usuario = usuarioBL.ObtenerPorId(2);
+
+            foreach (var item in usuario)
             {
-                Console.WriteLine(usuario.Nombre);
+                Console.WriteLine(item.Nombre);
             }
 
         }
